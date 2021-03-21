@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-jwt-authentication",
+  "version": "1.0.0",
+  "description": "Nodejs JWT Authentication project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "\"nodejs'",
+    "\"JWT\"",
+    "\"Authentication\"",
+    "\"Express\"",
+    "\"RestAPIs\""
+  ],
+  "author": "william",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^5.21.12"
+  }
+}
